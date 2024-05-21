@@ -47,11 +47,11 @@
             width: 100%;
             bottom: 0;
         }
-  
+  <header>
 </head>
 <body>
 
-<header>
+
     <h1>Fake y Bulo</h1>
     <p>Denunciando noticias falsas e información engañosa</p>
 </header>
