@@ -47,7 +47,7 @@
             width: 100%;
             bottom: 0;
         }
-    </style>
+  
 </head>
 <body>
 
@@ -55,7 +55,7 @@
     <h1>Fake y Bulo</h1>
     <p>Denunciando noticias falsas e información engañosa</p>
 </header>
-
+  </style>
 <nav>
     <a href="#acerca-de">Acerca de</a>
     <a href="#noticias-falsas">Noticias Falsas Recientes</a>
